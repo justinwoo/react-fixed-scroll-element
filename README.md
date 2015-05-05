@@ -4,6 +4,10 @@ A fixed-height scrolling element for React using RxJS.
 
 [Looks like this](https://s3.amazonaws.com/f.cl.ly/items/2y0m2k2I2F0l0K1H0V0q/Image%202015-05-05%20at%204.05.12%20PM.png)
 
+[Demo here: http://justinwoo.github.io/react-fixed-scroll-element](http://justinwoo.github.io/react-fixed-scroll-element)
+
+[npm](https://www.npmjs.com/package/react-fixed-scroll-element)
+
 # Installation
 
 `npm install --save-dev react-fixed-scroll-element`, hopefully.
